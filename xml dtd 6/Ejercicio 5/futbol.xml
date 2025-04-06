@@ -1,0 +1,14 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [futbol] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE futbol SYSTEM "futbol.dtd">
+<futbol>
+    <jugador nombre="AlfredoDiStefano" codigo="ads" />
+    <jugador nombre="EdsonArantesdoNascimento Pele" codigo="ean" />
+    <jugador nombre="DiegoArmandoMaradona" codigo="dam" />
+    <jugador nombre="JohanCruyff" codigo="jc" />
+</futbol>

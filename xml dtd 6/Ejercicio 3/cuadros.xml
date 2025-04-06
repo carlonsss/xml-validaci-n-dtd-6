@@ -1,0 +1,13 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [cuadros] 
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cuadros SYSTEM "cuadros.dtd">
+<cuadros>
+    <cuadro titulo="AdanYEva" autor="Alberto Durero" />
+    <cuadro titulo="AdanYEvaLucas" autor="Lucas Cranach, el viejo" />
+</cuadros>

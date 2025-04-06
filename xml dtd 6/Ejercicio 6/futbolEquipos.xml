@@ -1,0 +1,16 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [futbolEquipos] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE futbol SYSTEM "futbolEquipos.dtd">
+<futbol>
+    <jugador nombre="AlfredoDiStefano" codigo="ads" />
+    <jugador nombre="EdsonArantesdoNascimento" codigo="ean" />
+    <jugador nombre="DiegoArmandoMaradona" codigo="dam" />
+    <jugador nombre="JohanCruyff" codigo="jc" />
+    <equipo nombre="SocietàSportivaCalcioNapoli" jugadores="dam" />
+    <equipo nombre="FutbolClubBarcelona" jugadores="jc dam" />
+</futbol>

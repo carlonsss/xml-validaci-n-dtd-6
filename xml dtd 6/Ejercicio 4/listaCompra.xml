@@ -1,0 +1,12 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [listaCompra] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE listaCompra SYSTEM "listaCompra.dtd">
+<listaCompra>
+    <item nombre="leche" cantidad="12 litros" />
+    <item nombre="pan" cantidad="3 barras de cuarto" />
+</listaCompra>

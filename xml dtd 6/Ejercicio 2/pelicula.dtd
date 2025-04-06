@@ -1,0 +1,5 @@
+<!ELEMENT pelicula EMPTY>
+<!ATTLIST pelicula 
+    titulo CDATA #IMPLIED
+    genero CDATA #IMPLIED
+>

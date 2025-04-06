@@ -1,0 +1,6 @@
+<!ELEMENT cuadros (cuadro+)>
+<!ELEMENT cuadro EMPTY>
+<!ATTLIST cuadro 
+    titulo ID #REQUIRED
+    autor CDATA #REQUIRED
+>

@@ -1,0 +1,5 @@
+<!ELEMENT persona EMPTY>
+<!ATTLIST persona 
+    nombre CDATA #IMPLIED
+    dni CDATA #IMPLIED
+>

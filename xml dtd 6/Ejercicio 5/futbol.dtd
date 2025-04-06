@@ -1,0 +1,6 @@
+<!ELEMENT futbol (jugador*)>
+<!ELEMENT jugador EMPTY>
+<!ATTLIST jugador 
+    nombre NMTOKENS #REQUIRED
+    codigo ID #REQUIRED
+>

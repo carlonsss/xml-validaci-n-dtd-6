@@ -1,0 +1,6 @@
+<!ELEMENT listaCompra (item+)>
+<!ELEMENT item EMPTY>
+<!ATTLIST item 
+    nombre CDATA #REQUIRED
+    cantidad CDATA #REQUIRED
+>

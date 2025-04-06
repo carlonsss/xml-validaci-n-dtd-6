@@ -1,0 +1,11 @@
+<!ELEMENT futbol (jugador | equipo)*>
+<!ELEMENT jugador EMPTY>
+<!ATTLIST jugador 
+    nombre NMTOKENS #REQUIRED
+    codigo ID #REQUIRED
+>
+<!ELEMENT equipo EMPTY>
+<!ATTLIST equipo 
+    nombre CDATA #REQUIRED
+    jugadores IDREFS #IMPLIED
+>
